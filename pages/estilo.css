@@ -1,0 +1,58 @@
+.box {
+    position: absolute;
+
+
+}
+
+.footer {
+    text-align-last:bottom;
+
+}
+
+.fonteIMC{
+    color: red;
+    font-size: 20px;
+}
+
+.fonteCadastro {
+    color: red;
+    font-size: 25px;
+}
+
+.i {
+    color: green;
+    font-size: 25px;
+}
+
+body{
+    background-image: url("https://media.istockphoto.com/photos/white-wrinkle-paper-texture-background-picture-id672298630?b=1&k=20&m=672298630&s=170667a&w=0&h=pXZ_XVHseb5RY49K3N8PlzImUDyhShLMyCx91Q0GIdg=");
+    size: auto;
+}
+
+.inserir {
+    border: double;
+    border-radius: 15px;
+    border-width: 5px;
+    margin-right: 1000px;
+    font-size: 25px;
+    
+}
+
+.resultado {
+    border: double;
+    border-radius: 15px;
+    border-width: 5px;
+    margin-left: 340px;
+    margin-right: 540px;
+    margin-top: -100px;
+}
+
+.fonte {
+    font-size: 25px;
+
+}
+
+.erro{
+    color: red;
+    font-size: 25px;
+}
